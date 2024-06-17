@@ -1,0 +1,11 @@
+name: TeamGamesPlugin
+version: 1.0
+main: com.teamgames.main.TeamGamesInitializer
+commands:
+  claim:
+    description: Claim your items
+    usage: /claim
+  teamgames:
+    description: Manage store settings
+    usage: "/teamgames secret <key>"
+    aliases: [ tg ]

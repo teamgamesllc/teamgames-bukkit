@@ -1,0 +1,26 @@
+# Compiled class files
+/target/
+**/*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven wrapper files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+!/.mvn/wrapper/maven-wrapper.properties
+
+# IntelliJ IDEA files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
